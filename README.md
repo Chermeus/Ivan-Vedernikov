@@ -35,8 +35,6 @@ Component-Based Structure: Separate classes for different functionalities
 Key Classes
 CalendarApp: Main application controller
 CalendarEvent: Event data model and operations
-EventManager: CRUD operations handler
-EventViewer: Display and filtering logic
 Data Storage
 localStorage: Browser-based data persistence
 JSON Format: Events stored as structured JSON objects
